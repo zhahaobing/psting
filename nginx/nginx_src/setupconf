@@ -1,0 +1,1 @@
+./configure --prefix=/usr/local/nginx --conf-path=/usr/local/nginx/nginx.conf --error-log-path=/usr/local/nginx/log/error.log --pid-path=/usr/local/nginx/nginx.pid --lock-path=/usr/local/nginx/nginx.lock --user=nginx --group=nginx --with-http_ssl_module --with-http_flv_module
